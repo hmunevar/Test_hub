@@ -12,7 +12,7 @@ Git se puede usar con CMD Símbolo del Sistema. Se crea una carpeta donde vamos 
 * Se crea una carpeta "documentos", atravez del comando "git clon" se clona la URL del repositorio.  
 <FONT COLOR="red"> 
 >git clone  
- http://tfs.sistran.com:8080/tfs/colombia/OficinaArquitectura/_git/CapacitacionGit 
+      https://github.com/hmunevar/Test_hub.git
 </FONT>  
 
 ![Con Version](./Img/Git_01.png "Clonar")
@@ -159,7 +159,8 @@ Muestra información del Autor, correo, la fecha, hora, mensaje de cada commit y
 
   **Git Remote:**  Generar la misma version de lo que esta en el Hub con lo que esta en su PC´s.  
     <FONT COLOR="red">  
-> git remote add origin  http://tfs.sistran.com:8080/tfs/colombia/OficinaArquitectura/_git/CapacitacionGit   
+> git remote add origin  
+  https://github.com/hmunevar/Test_hub.gitit   
 > git remote -v </FONT>
 
 
